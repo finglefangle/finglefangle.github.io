@@ -17,10 +17,13 @@ html {
   font-size: 100%;
 }
 
-body 
-background: #99ff99
-font:18px/1.4 $helvetica"{"
-  color: #ff3300.container {
+body {
+
+background: #99ff99;
+font:18px/1.4 $helvetica;
+  color: #ff3300
+
+.container {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
