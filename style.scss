@@ -17,13 +17,10 @@ html {
   font-size: 100%;
 }
 
-body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
-}
-
-.container {
+body 
+background: #99ff99
+font:18px/1.4 $helvetica;
+  color: #ff3300.container {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
@@ -287,3 +284,6 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+}
+
