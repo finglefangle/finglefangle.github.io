@@ -158,10 +158,14 @@ width: 100%;
 table {
     border-collapse: collapse;
 }
-
+	
 table, th, td {
     border: 1px solid black;
 }
+	th, td {
+		padding: 25px;
+		text-align: left;
+
 	
 .wrapper-masthead {
   margin-bottom: 50px;
